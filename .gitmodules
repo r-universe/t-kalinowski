@@ -3,3 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "envir"]
+	path = envir
+	url = https://github.com/t-kalinowski/envir
+	shallow = true
+	registered = true
+[submodule "listarrays"]
+	path = listarrays
+	url = https://github.com/t-kalinowski/listarrays
+	shallow = true
+	registered = true
+[submodule "tfautograph"]
+	path = tfautograph
+	url = https://github.com/t-kalinowski/tfautograph
+	shallow = true
+	registered = true
+[submodule "yasp"]
+	path = yasp
+	url = https://github.com/t-kalinowski/yasp
+	shallow = true
+	registered = true

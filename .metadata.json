@@ -1,0 +1,18 @@
+[
+  {
+    "package": "envir",
+    "oncran": true
+  },
+  {
+    "package": "listarrays",
+    "oncran": true
+  },
+  {
+    "package": "tfautograph",
+    "oncran": true
+  },
+  {
+    "package": "yasp",
+    "oncran": true
+  }
+]
