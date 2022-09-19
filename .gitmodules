@@ -8,11 +8,6 @@
 	url = https://github.com/t-kalinowski/envir
 	shallow = true
 	registered = true
-[submodule "listarrays"]
-	path = listarrays
-	url = https://github.com/t-kalinowski/listarrays
-	shallow = true
-	registered = true
 [submodule "tfautograph"]
 	path = tfautograph
 	url = https://github.com/t-kalinowski/tfautograph
