@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "listarrays",
+    "oncran": true
+  },
+  {
     "package": "tfautograph",
     "oncran": true
   },
