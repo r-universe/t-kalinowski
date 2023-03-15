@@ -1,6 +1,6 @@
 [
   {
-    "package": "commafree",
+    "package": "tfautograph",
     "oncran": true
   },
   {
@@ -8,11 +8,11 @@
     "oncran": true
   },
   {
-    "package": "listarrays",
+    "package": "commafree",
     "oncran": true
   },
   {
-    "package": "tfautograph",
+    "package": "listarrays",
     "oncran": true
   },
   {
