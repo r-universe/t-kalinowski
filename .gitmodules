@@ -18,6 +18,11 @@
 	url = https://github.com/t-kalinowski/listarrays
 	shallow = true
 	registered = true
+[submodule "Rapp"]
+	path = Rapp
+	url = https://github.com/t-kalinowski/rapp
+	shallow = true
+	registered = true
 [submodule "tfautograph"]
 	path = tfautograph
 	url = https://github.com/t-kalinowski/tfautograph
