@@ -11,6 +11,9 @@
 [submodule "envir"]
 	path = envir
 	url = https://github.com/t-kalinowski/envir
+[submodule "keras"]
+	path = keras
+	url = https://github.com/cran/keras
 [submodule "listarrays"]
 	path = listarrays
 	url = https://github.com/t-kalinowski/listarrays
