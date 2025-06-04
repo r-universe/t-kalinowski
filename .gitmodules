@@ -14,6 +14,9 @@
 [submodule "listarrays"]
 	path = listarrays
 	url = https://github.com/t-kalinowski/listarrays
+[submodule "quickr"]
+	path = quickr
+	url = https://github.com/t-kalinowski/quickr
 [submodule "tfautograph"]
 	path = tfautograph
 	url = https://github.com/t-kalinowski/tfautograph
