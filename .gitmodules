@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "S7"]
+	path = S7
+	url = https://github.com/RConsortium/S7
+	registered = false
 [submodule "commafree"]
 	path = commafree
 	url = https://github.com/t-kalinowski/commafree
